@@ -1,4 +1,5 @@
-#include <stdio.h> 
+```c
+#inlude <stdio.h> 
 
 int main(void)
 {
@@ -8,3 +9,4 @@ int main(void)
       printf("%d 곱하기 %d은 %d\n",i,j,i*j);
    return 0;
 }
+```
