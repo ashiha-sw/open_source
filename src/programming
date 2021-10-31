@@ -1,0 +1,11 @@
+  1 #include <stdio.h>
+  2 
+  3 int main(void)
+  4 {
+  5   int i,j;
+  6   for(i = 0; i<=9; i++)
+  7     for(j = 0; j<=9; j++)
+  8       printf("%d 곱하기 %d은 %d\n",i,j,i*j);
+  9 
+ 10   return 0;
+ 11 }
