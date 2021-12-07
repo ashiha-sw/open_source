@@ -206,5 +206,6 @@ int main()
  *어려웠던점은 Segmentation fault: 11 오류가 나서 몇시간 고생해서 결국 맥북의 문제였다고 한다.*
 ###~~하지만 난이도는 쉽기 때문에 누구나 어렵지 않은 코드이다.~~
 **아래는 예시 **
-![대체 텍스트]https://blogfiles.pstatic.net/MjAyMTEyMDdfMTEy/MDAxNjM4ODUyMDA4Mzgz.6r37EqwevXWJmavdUWCBSDAR-1YE_e3Ffv-wsfr7Wiwg.s_DpgIQo5eNklNtRZvfCEOBEjQVolfCM5b73_vLtSTwg.PNG.sunwoochoi0102/스크린샷_2021-12-07_오전_11.27.04.png
-! [대체 텍스트]https://postfiles.pstatic.net/MjAyMTEyMDdfMjIx/MDAxNjM4ODUyMDA4NTAy.tbSoGjxSDo1PwDWKMgsrLDTsowj81OFJi7N0CUTfpuwg.6dZVUvWKgDslL_4sP_hW8abzzNq5pqHywErQfRast7Ig.PNG.sunwoochoi0102/스크린샷_2021-12-07_오전_11.29.25.png?type=w773
+<img width="460" alt="스크린샷 2021-12-07 오전 11 28 15" src="https://user-images.githubusercontent.com/92897127/144967772-3ef4e7f3-976c-4405-82d9-91f6e02377ac.png">
+
+<img width="536" alt="스크린샷 2021-12-07 오전 11 29 25" src="https://user-images.githubusercontent.com/92897127/144967749-1e4376d8-b7b0-48d3-9f7e-01c2bde9d36e.png">
