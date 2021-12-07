@@ -206,5 +206,5 @@ int main()
  *어려웠던점은 Segmentation fault: 11 오류가 나서 몇시간 고생해서 결국 맥북의 문제였다고 한다.*
 ###~~하지만 난이도는 쉽기 때문에 누구나 어렵지 않은 코드이다.~~
 **아래는 예시 **
-![대체 텍스트]https://mail.naver.com/read/image/?mailSN=379&attachIndex=2&contentType=image/png&offset=1680&size=273352&mimeSN=1638851915.651467.38325.46848&org=1&u=sunwoochoi0102
-! [대체 텍스트]https://mail.naver.com/read/image/?mailSN=379&attachIndex=3&contentType=image/png&offset=275447&size=409696&mimeSN=1638851915.651467.38325.46848&org=1&u=sunwoochoi0102
+![대체 텍스트]https://blogfiles.pstatic.net/MjAyMTEyMDdfMTEy/MDAxNjM4ODUyMDA4Mzgz.6r37EqwevXWJmavdUWCBSDAR-1YE_e3Ffv-wsfr7Wiwg.s_DpgIQo5eNklNtRZvfCEOBEjQVolfCM5b73_vLtSTwg.PNG.sunwoochoi0102/스크린샷_2021-12-07_오전_11.27.04.png
+! [대체 텍스트]https://postfiles.pstatic.net/MjAyMTEyMDdfMjIx/MDAxNjM4ODUyMDA4NTAy.tbSoGjxSDo1PwDWKMgsrLDTsowj81OFJi7N0CUTfpuwg.6dZVUvWKgDslL_4sP_hW8abzzNq5pqHywErQfRast7Ig.PNG.sunwoochoi0102/스크린샷_2021-12-07_오전_11.29.25.png?type=w773
